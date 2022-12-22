@@ -11,7 +11,7 @@
 ## v1.2.1:
 - Add an option to save a game and then resume the game
 
-##v1.3.1:
+## v1.3.1:
 - Add feature that will detect who is the winner
 - Allow users to predefine the number of rounds
 
